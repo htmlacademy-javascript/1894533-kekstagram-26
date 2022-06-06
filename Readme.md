@@ -1,9 +1,9 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Дмитрий Моргунов](https://up.htmlacademy.ru/javascript/26/user/1894533).
-* Наставник: `Неизвестно`.
+* Наставник: [Семён Якушев](https://htmlacademy.ru/profile/id1118791).
 
----
+---  
 
 _Не удаляйте и не изменяйте самовольно файлы и папки:_
 _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `package-lock.json`, `package.json`., `.github`_
